@@ -30,3 +30,4 @@ fun main(args: Array<String>) {
     //High order function
     println("Div = " + calculate(50,10,::div))
 }
+
